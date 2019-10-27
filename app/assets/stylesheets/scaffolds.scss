@@ -14,6 +14,22 @@ p, ol, ul, td {
   line-height: 18px;
 }
 
+
+p:hover{
+  color: #ffffff;
+  border: 1px double #ffffff;
+  background: #0080ff;
+}
+
+h1{
+  color: #0080ff;
+  font-style:italic;
+}
+
+h3{
+  font-style:italic;
+}
+
 pre {
   background-color: #eee;
   padding: 10px;
